@@ -17,7 +17,7 @@ To predict the weather condition based on Atmospheric pressure, Humidity, Temper
 - [Himanshu Chaurasiya ](https://github.com/Himanshuchaurasiya1234)
 - [Vikas Chaurasiya](https://github.com/vikas-348)
 ## Circuit Diagram
-![Circuit](Images/Circuit diagram.png)
+![Circuit](Images/Circuit-diagram.png)
 
 ### Hardware Requirement
 ```
@@ -42,10 +42,10 @@ DHT11 has 3 pin to it one for ground one for vcc which goes in the 5v side and t
 
 
 ## Implementation
-![Circuit](Images/circuit implementaion.png)
+![Circuit](Images/Circuit-implementaion.png)
 
 ## Output
-![Output](Images/Serial Monitior input.png)
+![Output](Images/Serial-Monitor-input.png)
 
 The output is obtained on the serial monitor of Arduino ie Humidtiy, Temperature, Heat Index, and The light Intensity
 
