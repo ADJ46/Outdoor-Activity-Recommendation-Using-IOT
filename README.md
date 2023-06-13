@@ -17,7 +17,7 @@ To predict the weather condition based on Atmospheric pressure, Humidity, Temper
 - [Himanshu Chaurasiya ](https://github.com/Himanshuchaurasiya1234)
 - [Vikas Chaurasiya](https://github.com/vikas-348)
 ## Circuit Diagram
-![Circuit](Images/System.PNG)
+![Circuit](Images/Circuit diagram.png)
 
 ### Hardware Requirement
 ```
@@ -42,20 +42,20 @@ DHT11 has 3 pin to it one for ground one for vcc which goes in the 5v side and t
 
 
 ## Implementation
-![Circuit](Images/System.PNG)
+![Circuit](Images/circuit implementaion.png)
 
 ## Output
-![Output](Images/System.PNG)
+![Output](Images/Serial Monitior input.png)
 
 The output is obtained on the serial monitor of Arduino ie Humidtiy, Temperature, Heat Index, and The light Intensity
 
 The output is then used to obtain the prediction by applying naive bayers algorithm
 
 ## Algorithm Accurarcy
-![Algorithm](Images/System.PNG)
+![Algorithm](Images/Accurarcy.png)
 
 ## Prediction
-![Algorithm](Images/System.PNG)
+![Algorithm](Images/predictions.png)
 
 
 
@@ -66,5 +66,5 @@ We have successfully built a system that calculates the temperature , Humidity, 
 
 
 ## Documentation
-- [Project PPT](Documents/Project.pptx)
-- [Project Report](Documents/Project.pptx)
+- [Project PPT](Document/Presentation.pptx)
+- [Project Report](Document/Report.pdf)
